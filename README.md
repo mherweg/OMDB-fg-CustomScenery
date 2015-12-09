@@ -24,3 +24,11 @@ fgfs--fg-scenery=/scenery/OMDB-fg-CustomScenery/project3000
 --fg-scenery=/mh/scenery/OMDB-fg-CustomScenery
 
 
+
+hint:
+
+* link or copy your Terrasync Objects folder into the OMDB-fg-CustomScenery folder:
+
+ln -s ~/.fgfs/TerraSync/Objects /scenery/OMDB-fg-CustomScenery
+
+
