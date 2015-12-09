@@ -19,8 +19,8 @@ fgfs --fg-scenery=/scenery/OMDB-fg-CustomScenery
 
 optional:
 
-fgfs--fg-scenery=/scenery/OMDB-fg-CustomScenery/project3000  \
---fg-scenery=/mh/scenery/OMDB-fg-CustomScenery/osm2city      \
+fgfs--fg-scenery=/scenery/OMDB-fg-CustomScenery/project3000  
+--fg-scenery=/mh/scenery/OMDB-fg-CustomScenery/osm2city    
 --fg-scenery=/mh/scenery/OMDB-fg-CustomScenery
 
 
