@@ -37,5 +37,5 @@ remove the white Burj Khalifa (because we have it in TerraSync):
     rm e050n20_e055n25_3857609city0507.ac  e050n20_e055n25_3857609city0407.ac
 
 ## known bugs:
-* the airports OMSJ and OMDB are missing
+* the airports OMSJ and OMDM are missing
 * little buildings that connect jetways with the terminals are mising
