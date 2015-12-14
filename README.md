@@ -36,4 +36,6 @@ remove the white Burj Khalifa (because we have it in TerraSync):
     cd /scenery/OMDB-fg-CustomScenery/osm2city 
     rm e050n20_e055n25_3857609city0507.ac  e050n20_e055n25_3857609city0407.ac
 
-
+## known bugs:
+* the airports OMSJ and OMDB are missing
+* little buildings that connect jetways with the terminals are mising
