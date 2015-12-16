@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+	<path>rolex_tower.ac</path>
+	
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m> 21.5</x-m>
+			<y-m> 33  </y-m>
+			<z-m>235  </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>  0</x-m>
+			<y-m> 33</y-m>
+			<z-m>235</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>  0</x-m>
+			<y-m>  0</y-m>
+			<z-m>235</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m> 21.5</x-m>
+			<y-m>  0  </y-m>
+			<z-m>235  </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m> 36.5</x-m>
+			<y-m> 33  </y-m>
+			<z-m>117.5</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>  0  </x-m>
+			<y-m> 33  </y-m>
+			<z-m>117.5</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>  0  </x-m>
+			<y-m>  0  </y-m>
+			<z-m>117.5</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m> 36.5</x-m>
+			<y-m>  0  </y-m>
+			<z-m>117.5</z-m>
+		</offsets>
+	</model>
+
+</PropertyList>

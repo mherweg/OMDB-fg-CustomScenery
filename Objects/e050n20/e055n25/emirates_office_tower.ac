@@ -1,0 +1,67 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "default" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah.001"
+data 8
+Mesh.001
+crease 30.000000
+numvert 6
+55 256 1.1e-05
+23.75633 256 49.604816
+0 311 1.4e-05
+0 0 0
+23.75633 -2e-06 49.604805
+55 0 0
+numsurf 8
+SURF 0x30
+mat 1
+refs 3
+2 0.0 0.0
+0 0.0 0.0
+5 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+2 0.0 0.0
+5 0.0 0.0
+3 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+4 0.0 0.0
+2 0.0 0.0
+3 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+2 0.0 0.0
+4 0.0 0.0
+1 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+5 0.0 0.0
+0 0.0 0.0
+1 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+5 0.0 0.0
+1 0.0 0.0
+4 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+1 0.0 0.0
+0 0.0 0.0
+2 0.0 0.0
+SURF 0x30
+mat 1
+refs 3
+5 0.0 0.0
+4 0.0 0.0
+3 0.0 0.0
+kids 0

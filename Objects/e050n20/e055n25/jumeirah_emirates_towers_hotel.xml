@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+	<path>jumeirah_emirates_towers_hotel.ac</path>
+	
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-23.76</x-m>
+			<y-m> 49.61</y-m>
+			<z-m> 205  </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-55.18</x-m>
+			<y-m>  0   </y-m>
+			<z-m>205   </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-23.76</x-m>
+			<y-m> 49.61</y-m>
+			<z-m> 155  </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-55.18</x-m>
+			<y-m>  0   </y-m>
+			<z-m>155   </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-23.76</x-m>
+			<y-m> 49.61</y-m>
+			<z-m> 105  </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-55.18</x-m>
+			<y-m>  0   </y-m>
+			<z-m>105   </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-23.76</x-m>
+			<y-m> 49.61</y-m>
+			<z-m> 55   </z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>-55.18</x-m>
+			<y-m>  0   </y-m>
+			<z-m> 55   </z-m>
+		</offsets>
+	</model>
+
+</PropertyList>

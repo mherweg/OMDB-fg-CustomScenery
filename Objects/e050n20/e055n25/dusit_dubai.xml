@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+	<path>dusit_dubai.ac</path>
+	
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m> 0   </x-m>
+			<y-m> 0   </y-m>
+			<z-m>95.66</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>40   </x-m>
+			<y-m> 0   </y-m>
+			<z-m>95.66</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m>40   </x-m>
+			<y-m>52   </y-m>
+			<z-m>95.66</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/RedLight10000.xml</path> 
+		<offsets> 
+			<x-m> 0   </x-m>
+			<y-m>52   </y-m>
+			<z-m>95.66</z-m>
+		</offsets>
+	</model>
+
+</PropertyList>
