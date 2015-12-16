@@ -30,13 +30,6 @@ optional:
     --fg-scenery=/scenery/OMDB-fg-CustomScenery
 
 
-
-* remove the white Burj Khalifa:
-
-    cd /scenery/OMDB-fg-CustomScenery/osm2city
-    rm e050n20_e055n25_3857609city0507.ac  e050n20_e055n25_3857609city0407.ac
-
-
 ## hint:
 link or copy your Terrasync Objects folder into the OMDB-fg-CustomScenery folder:
 
