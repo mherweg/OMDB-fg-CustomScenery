@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2377416 25.1371996 0.52 139.83
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2379475 25.1374094 0.55 140
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2399989 25.1354746 -2.51 140.34
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2401877 25.1357077 -2.66 140.43
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2422133 25.1338429 -4.79 140.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2424022 25.134076 -4.95 140.57
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2444878 25.1321334 -0.26 140.57
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2446853 25.1323587 -1.09 140.37
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2467109 25.1304938 -3.88 140.84
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2468997 25.1307036 -2.78 140.73
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.249157 25.128691 -0.12 140.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2493115 25.125435 -1.96 52.35
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2493373 25.1289163 0.74 143.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.2495948 25.1252873 -0.18 50.37
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 55.1967 25.155 0.07 18.29
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 55.2433 25.2117 0.56 254.34
+OBJECT_STATIC burj-al-arab.ac 55.185555 25.14111111 0.02 136
