@@ -2,8 +2,9 @@
 Dubai Scenery for Flightgear with OMDB and OMDW
 
 * OMDB airport layout by gateway artist Litjan
-
 * terrain with osm coastline by d-laser
+* 3D terminal models by d-laser
+* textures by d-laser and gsagostinho
 
 the (optional) OSM buildings have no textures because osm2city has a bug that make big roofs look bad.
 
@@ -43,3 +44,5 @@ remove the white Burj Khalifa (because we have it in TerraSync):
 
 ## known bugs:
 * little buildings that connect jetways with the terminals are mising
+* some buildings have to be removed from the osm2city folder because static 3D models exist.
+* project3000-generated passenger bridges between terminal and satellite buildings are too short
