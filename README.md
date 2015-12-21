@@ -3,6 +3,7 @@ Dubai Scenery for Flightgear with OMDB and OMDW
 
 * OMDB airport layout by gateway artist Litjan
 * terrain with osm coastline by d-laser
+* skyscrapers by Julien Nguyen
 * 3D terminal models by d-laser
 * textures by d-laser and gsagostinho
 
