@@ -2,7 +2,7 @@
 
 <PropertyList>
 
-	<path>glass.ac</path>
+	<path>OMDB-glass-jetway.ac</path>
 
 	<!-- Required -->
 	<is-animated-jetway type="bool">true</is-animated-jetway>
@@ -183,11 +183,22 @@
 		</axis>
 	</animation>
 
-	<!-- Don't let the entrance rotunda interact with aircraft -->
+	<!-- Don't let anything crash the aircraft -->
 	<animation>
+		<object-name>Support</object-name>
+		<object-name>SupportGirder</object-name>
+		<object-name>Tunnel1</object-name>
+		<object-name>Tunnel2</object-name>
+		<object-name>Tunnel2Glass</object-name>
+		<object-name>Tunnel3</object-name>
+		<object-name>Tunnel3Glass</object-name>
+		<object-name>Tunnel4</object-name>
+		<object-name>Tunnel4Glass</object-name>
+		<object-name>Rotunda1</object-name>
+		<object-name>Rotunda2</object-name>
 		<object-name>Entrance</object-name>
 		<object-name>Hood</object-name>
-		<object-name>Rotunda2</object-name>
+		<object-name>AirlineSign</object-name>
 		<enable-hot type="bool">false</enable-hot>
 	</animation>
 
