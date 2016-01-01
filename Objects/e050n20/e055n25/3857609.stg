@@ -562,7 +562,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.4974908 25.1417977 65.02 359.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 55.4991387 25.1623319 62.54 208.4
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 55.255 25.2267 3.17 137.46
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 55.256432 25.2298526 1.83 304.43
-OBJECT_STATIC burj-khalifa.ac 55.274352 25.197102 4.74 320
+OBJECT_STATIC burj-khalifa.ac 55.27416913 25.19722056 0.1688 332.7 0.0 -0.0
 OBJECT_STATIC ahmed_abdul_rahim_al_attar_tower.ac 55.27689 25.2124 -1 55
 OBJECT_STATIC al_yaqoub_tower.ac 55.27965 25.21635 -1 55
 OBJECT_STATIC dusit_dubai.xml 55.27271 25.2061 3.17 55
