@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+  <name>OMDB ground vehicle</name>
+  <description>by d-laser / laserman / pommesschranke</description>
+  
+   <entry>
+   <callsign>D-foo</callsign>
+   <type>aircraft</type>
+   <class>ufo</class>
+   <model>AI/Aircraft/FollowMe/FollowMe.xml</model>  
+   <flightplan>OMDB-car.xml</flightplan>
+   <repeat>1</repeat>
+  </entry>
+
+ <entry>
+   <callsign>D-foo2</callsign>
+   <type>aircraft</type>
+   <class>ufo</class>
+   <model>AI/Aircraft/FollowMe/FollowMe2.xml</model>  
+   <flightplan>OMDB-car2.xml</flightplan>
+   <repeat>1</repeat>
+  </entry>
+ </scenario>
+
+</PropertyList>

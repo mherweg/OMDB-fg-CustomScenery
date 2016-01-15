@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+ <description>FollowMe2</description>
+ <author>d-laser</author>  
+ <path>Models/Transport/CCS_catering_truck.ac</path>
+ 
+ <animation>
+  <enable-hot type="bool">false</enable-hot>
+ </animation>
+ 
+</PropertyList>

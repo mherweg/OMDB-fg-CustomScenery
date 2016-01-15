@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+ <description>FollowMe</description>
+ <author>d-laser</author>  
+ <path>Models/Airport/Vehicle/EDDI-FollowMe.ac</path>
+ 
+ <animation>
+  <enable-hot type="bool">false</enable-hot>
+ </animation>
+ 
+</PropertyList>
