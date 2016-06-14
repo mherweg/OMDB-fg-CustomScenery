@@ -1280,7 +1280,7 @@ refs 3
 kids 0
 OBJECT poly
 name "diagonals"
-texture "OMDB-tower.png"
+texture "kachel.png"
 texrep 1 1
 numvert 192
 -1.3672149 53.0716629 5.1495490
@@ -2732,7 +2732,7 @@ refs 4
 kids 0
 OBJECT poly
 name "leiter"
-texture "OMDB-tower_1.png"
+texture "reling.png"
 texrep 1 1
 numvert 32
 0.6145011 111.0705338 -0.0356624
@@ -2883,7 +2883,7 @@ refs 4
 kids 0
 OBJECT poly
 name "omdb-tower"
-texture "OMDB-tower.png"
+texture "kachel.png"
 texrep 1 1
 numvert 256
 -0.0000005 -1.5574074 -5.5531907
@@ -4266,7 +4266,7 @@ refs 4
 kids 0
 OBJECT poly
 name "reling"
-texture "OMDB-tower_1.png"
+texture "reling.png"
 texrep 1 1
 numvert 256
 -0.0000007 99.1860046 -9.0492649
@@ -6145,7 +6145,7 @@ refs 3
 kids 0
 OBJECT poly
 name "strut.001"
-texture "OMDB-tower.png"
+texture "kachel.png"
 texrep 1 1
 numvert 248
 9.6345863 56.3169327 10.9560738
@@ -8028,7 +8028,7 @@ refs 4
 kids 0
 OBJECT poly
 name "top-windows"
-texture "OMDB-tower_2.png"
+texture "tower-fenster.png"
 texrep 1 1
 numvert 128
 -0.0000023 96.0015106 -7.6891375
