@@ -33,6 +33,8 @@ optional:
 * project3000-generated passenger bridges between terminal and satellite buildings are too short
 * bad elevation for osm roads
 * terrain(terragear) roads only in the downtown area
+* missing or wrong .ils.xml and .threshold.xml files
+* Doha(OTHH) has still the old coastline
 
 ## screenshots
 * http://www.23hq.com/laserman/album/21977341
